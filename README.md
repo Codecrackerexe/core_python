@@ -1,2 +1,2 @@
 # core_python
-# learning basic fundamentals of the language python
+learning basic fundamentals of the language python
